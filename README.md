@@ -10,4 +10,8 @@ The instrument is a mechanical deflection-mode torque-balance letter scale compr
 
 QCM (Questionnaire à Choix Multiple)
 
-[QCM](src/QCM_Neurone_Mecanique.pdf)
+
+## Ressources
+
+* [Grille](src/GrilleProcedure.txt) pour chaque époque du SDGD
+* [QCM](src/QCM_Neurone_Mecanique.pdf) avec correction
