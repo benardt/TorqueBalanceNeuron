@@ -1,0 +1,18 @@
+ÉPOQUE n° ___     Position r_cw (mm, repère sur la réglette) : ________
+
+i   m_i (g)   t_i (°)   φ_i (°)   e_i = φ_i - t_i (°)
+1   ________  ________  ________  _____________________
+2   ________  ________  ________  _____________________
+3   ________  ________  ________  _____________________
+4   ________  ________  ________  _____________________
+5   ________  ________  ________  _____________________
+
+Erreur moyenne signée  ȳe  = (Σ e_i)/5 = ____________  °
+Erreur absolue moyenne MAE = (Σ |e_i|)/5 = ____________  °
+
+Décision :
+- Signe du pas (selon ȳe) :   POSITIF  /  NÉGATIF
+- Taille du pas (selon MAE) : 10 mm  /  5 mm  /  2 mm
+
+Nouvelle position r_cw = __________________  (mm)
+Commentaire (oscillation ? frottement ? saturation proche de 90° ?) : ________________________________
