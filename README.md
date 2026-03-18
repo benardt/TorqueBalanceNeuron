@@ -11,6 +11,25 @@ The instrument is a mechanical deflection-mode torque-balance letter scale compr
 
 STL (ascii) 3D file [here](src/playground.stl)
 
+## Nomenclature
+
+| Repère | Quantité | Nom | Matière |
+|--------|----------|-----|---------|
+| A      | 1        | Base 1 | Bois |
+| B      | 1        | Base 2 | Bois |
+| C      | 1        | Support vertical | Bois |
+| D      | 1        | Cadran gradué | Contreplaqué (épaisseur 3 mm) |
+| E      | 1        | Tambour | Contreplaqué (épaisseur 12 mm) |
+| F      | 1        | Corde | Synthétique |
+| G      | 1        | Crochet | Laiton |
+| H      | 1        | Roulement à bille | Acier |
+| I      | 1        | Vis M8 | Acier |
+| J      | 2        | Écrou M8 | Acier |
+| K      | 1        | Levier | Bois |
+| L      | 1        | Vis M6 (contrepoids) | Acier |
+| M      | 1        | Écrou (contrepoids) | Acier |
+
+
 ## PoC View
 <p align="center">
   <img src="images/IMG_20260318_103020940.jpg" width="300">
