@@ -9,6 +9,7 @@ The instrument is a mechanical deflection-mode torque-balance letter scale compr
   <img src="images/2D_front_view.png" width="300">
 </p>
 
+STL (ascii) 3D file [here](src/playground.stl)
 
 ## PoC View
 <p align="center">
