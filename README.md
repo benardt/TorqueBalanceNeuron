@@ -7,6 +7,14 @@ The instrument is a mechanical deflection-mode torque-balance letter scale compr
 
 ![Figure 1](images/2D_front_view.png?raw=true "Figure 1")
 
+## PoC View
+<p align="center">
+  <img src="images/IMG_20260318_103020940.jpg" width="350">
+  <img src="images/IMG_20260318_103041082.jpg" width="350">
+  <img src="images/IMG_20260318_103232591.jpg" width="350">
+  <img src="images/IMG_20260318_103240442.jpg" width="350">
+</p>
+
 ## QCM pour l'évaluation
 
 QCM (Questionnaire à Choix Multiple)
