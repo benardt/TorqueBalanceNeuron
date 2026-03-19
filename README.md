@@ -49,6 +49,8 @@ Date : samedi 24 janvier 2026
 Lieu : Orléans - Groupe scolaire Sainte Croix - Saint Euverte //
 Lors de la journée des métiers organisée par l'APEL pour des élèves des classes de 4e et 3e du collège (cycle 4). L'évaluation faisait partie d'un atelier sur l'intelligence articielle.
 
+3 groupes dans la matinée et 3 groupes dans l'après-midi.
+
 
 ## QCM pour l'évaluation
 
