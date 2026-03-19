@@ -40,7 +40,7 @@ STL (ascii) 3D file [here](src/playground.stl)
 
 ## Évaluation pilote
 
-L'évaluation pilote permet de  trois fonctions essentielles. Elle permet : 
+L'évaluation pilote permet de valider trois fonctions essentielles. Elle permet : 
 * de valider la faisabilité du dispositif en conditions réelles
 * d'identifier les points de fragilité pédagogique qui orienteront les améliorations du protocole
 * de fournir une preuve de concept suffisante pour justifier une étude plus large et plus rigoureuse
