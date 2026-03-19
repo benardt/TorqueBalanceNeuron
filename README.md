@@ -52,7 +52,7 @@ Lors de la journée des métiers organisée par l'APEL pour des élèves des cla
 
 ## QCM pour l'évaluation
 
-QCM (Questionnaire à Choix Multiple)
+QCM (Questionnaire à Choix Multiple). Voir chapitre Ressources
 
 
 ## Ressources
