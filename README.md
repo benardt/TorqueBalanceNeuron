@@ -38,6 +38,18 @@ STL (ascii) 3D file [here](src/playground.stl)
   <img src="images/IMG_20260318_103240442.jpg" width="300">
 </p>
 
+## Évaluation pilote
+
+L'évaluation pilote permet de  trois fonctions essentielles. Elle permet : 
+* de valider la faisabilité du dispositif en conditions réelles
+* d'identifier les points de fragilité pédagogique qui orienteront les améliorations du protocole
+* de fournir une preuve de concept suffisante pour justifier une étude plus large et plus rigoureuse
+
+Date : samedi 24 ljanvier 2026
+Lieu : Orléans - Groupe scolaire Sainte-Croix - Saint Euverte
+Lors de la journée des métiers organisée par l'APEL pour des élèves des classes de 4e et 3e du collège (cycle 4). L'évaluation faisait partie d'un atelier sur l'intelligence articielle.
+
+
 ## QCM pour l'évaluation
 
 QCM (Questionnaire à Choix Multiple)
