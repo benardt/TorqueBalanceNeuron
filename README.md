@@ -45,7 +45,7 @@ L'évaluation pilote permet de valider trois fonctions essentielles. Elle permet
 * d'identifier les points de fragilité pédagogique qui orienteront les améliorations du protocole
 * de fournir une preuve de concept suffisante pour justifier une étude plus large et plus rigoureuse
 
-Date : samedi 24 ljanvier 2026
+Date : samedi 24 janvier 2026
 Lieu : Orléans - Groupe scolaire Sainte-Croix - Saint Euverte
 Lors de la journée des métiers organisée par l'APEL pour des élèves des classes de 4e et 3e du collège (cycle 4). L'évaluation faisait partie d'un atelier sur l'intelligence articielle.
 
