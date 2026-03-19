@@ -27,7 +27,7 @@ STL (ascii) 3D file [here](src/playground.stl)
 | J      | 2        | Écrou M8 | Acier | |
 | K      | 1        | Levier | Bois | | L=250mm l=34mm (ép: 5mm) |
 | L      | 1        | Vis M6 (contrepoids) | Acier | M6x40mm |
-| M      | 1        | Écrou (contrepoids) | Acier | |
+| M      | 1        | Écrou M6 (contrepoids) | Acier | |
 
 
 ## PoC View
