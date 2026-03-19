@@ -61,3 +61,4 @@ QCM (Questionnaire à Choix Multiple). Voir chapitre Ressources
 
 * [Grille](src/GrilleProcedure.txt) pour chaque époque du SDGD
 * [QCM](src/QCM_Neurone_Mecanique.pdf) avec correction
+* [Vidéo](https://photos.app.goo.gl/NeYP4QzwnGSr2SjAA)
