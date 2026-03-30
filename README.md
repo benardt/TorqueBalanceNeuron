@@ -1,5 +1,5 @@
 # Torque Balance Neuron
-Use the lever balance to simulate the functioning and learning of a neuron (in the sense of artificial intelligence).
+Use the lever balance to simulate the functioning and learning of a [artificial neuron](https://en.wikipedia.org/wiki/Artificial_neuron) (in the sense of artificial intelligence).
 
 
 ## Mechanical device
