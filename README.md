@@ -22,7 +22,7 @@ STL (ascii) 3D file [here](src/playground.stl)
 | E      | 1        | Tambour | Contreplaqué | R=75mm (ép: 12mm) |
 | F      | 1        | Corde | Synthétique | L=200mm |
 | G      | 1        | Crochet | Laiton | |
-| H      | 1        | Roulement à bille | Acier | |
+| H      | 1        | Roulement à bille 608 | Acier | |
 | I      | 1        | Vis M8 | Acier | M8x40mm |
 | J      | 2        | Écrou M8 | Acier | |
 | K      | 1        | Levier | Bois | | L=250mm l=34mm (ép: 5mm) |
